@@ -1,6 +1,8 @@
 # Adding config.py file.
 config.py
 WeatherPy/starter_code/api_keys.py
+api_key
+api_keys.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
